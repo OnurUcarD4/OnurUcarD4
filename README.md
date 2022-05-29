@@ -5,3 +5,5 @@ Making dynamic and responsive websites with HTML,CSS,SCSS,Javascript,ReactJS,Red
 Check my LinkedIn: https://linkedin.com/in/OnurUcarD4
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onurucard4&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onurucard4&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
